@@ -7,7 +7,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50% 20% / 10% 40%;
+    border-radius: 50% 20% / 10% 35%;
 }
 
 .form {
@@ -16,6 +16,7 @@
 
 .title {
     color: #ffda56;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .form-field {
